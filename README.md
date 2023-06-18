@@ -8,3 +8,4 @@ This is my first dashboard which I have created using Power BI. In this project 
  5. Top performing states
  6. Best customers
  7. Quaterly and state wise slicers
+![Sales report](https://github.com/nnamansingh/first_powerBI_project_on_sales_analysis/assets/79014513/40097487-1016-4a6e-8809-e3443ce3bb4f)
